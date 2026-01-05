@@ -23,6 +23,11 @@ dependencies:
   google_fonts: ^6.2.1
   font_awesome_flutter: ^10.7.0
 
+  # Data n else
+  excel: ^4.0.2
+  path_provider: ^2.1.2
+  share_plus: ^7.2.1
+
   # Utils
   intl: ^0.19.0
 
